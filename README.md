@@ -1,0 +1,2 @@
+# palgs
+Palworld Game Server
